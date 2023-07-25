@@ -8,7 +8,7 @@ My GitHub profile showcases some of my recent projects, including web applicatio
 
 Whether you are looking for inspiration for your own projects or want to collaborate on a new project, I invite you to explore my GitHub profile and get in touch with me to discuss your ideas. Thank you for visiting!
 
-Skills: HTML / CSS / JavaScript / jQuery / MySQL / PHP / WordPress
+Skills: HTML / CSS / JavaScript / jQuery / MySQL / PHP / WordPress / WordPress Theme Development / WordPress Plugin Development
 
 - 🔭 I’m currently working on Theme Development 
 - 🌱 I’m currently learning Theme Development 
