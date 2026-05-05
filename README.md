@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- REPLACE 'YOUR_IMAGE_URL_HERE' with the link to your downloaded Canva image -->
-  <img src="https://www.canva.com/design/DAHIt0mfhmc/U_K6BMKvdKHGMwG9p3Qpow/view?utm_content=DAHIt0mfhmc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd8988b643d" alt="Muhammad Jalal Banner" width="100%" />
+  <img src="./assets/images/banner.png" alt="Muhammad Jalal Banner" width="100%" />
 </p>
 
 # 🚀 Muhammad Jalal | Full Stack & AI Automation Developer
@@ -47,19 +46,25 @@ Highly logical **Computer Science & Engineering** student at Daffodil Internatio
 
 ---
 
-### 📂 Highlighted Projects (From CV)
+### 📂 Highlighted Projects
 
-- **AI-Powered QA Compliance Engine:** Built a server-side async pipeline using **Redis Queues** and **Gemini JSON Schema** to process 1,000+ audits, reducing token costs by 40%.
-- **Trading Chart Full-Stack MLS:** Integrated real-time chat via **Laravel Reverb** and an AI Assistant using **MCP (Model Context Protocol)**.
-- **LinkedIn & GamiPress Integration:** Engineered a secure API layer for automated social sharing and AI-assisted validation for digital rewards.
+| Project | Stack | Highlights | Links |
+|---|---|---|---|
+| **RiceStream: Full-Stack ERP for Wholesale & Inventory Management** | Laravel, React.js, Inertia.js, MySQL, Tailwind CSS | Built a mission-critical ERP with Inertia.js modern monolith architecture for reactive UX and strong backend data integrity. Implemented high-precision financial logic (KG/Tonne conversions and automated double-entry dealer ledgers) with `bcmath` for zero-error dues. <br><br>**Key Achievements:** 100% financial accuracy; 70% less admin latency via automated Statements of Account; sub-200ms statement retrieval with optimized Eloquent + indexing; 30% faster inventory turnaround with valuation and low-stock alerts; 40% less frontend boilerplate through Inertia.js single source of truth. | [GitHub](https://github.com/shahjalal132/arod-management-system) |
+| **AI-Powered Bilingual Content Compliance & QA Engine** | Laravel 13, Gemini 1.5 Flash (Structured Outputs), Redis, MySQL 8.0, AlpineJS, Tailwind CSS, PM2, Nginx | Engineered a high-throughput QA automation platform that pre-fetches and sanitizes HTML server-side, then audits URLs asynchronously through Redis Queues to avoid browser timeout bottlenecks. Added Gemini JSON Schema mode for deterministic bilingual (English/Welsh) structured outputs and automated reporting pipelines. <br><br>**Key Achievements:** 85% faster processing with support for 1,000+ URL bulk audits; 100% consistent structured data mapping and export integrity; dynamic prompt engine (CRUD) for non-technical rule tuning; 40% token cost reduction through payload cleaning/minification; production-ready LEMP + PM2 deployment automation. | [GitHub](https://github.com/shahjalal132/ai-qa-assistant-tool) |
+| **Trading Chart: Full-Stack LMS & Affiliate Ecosystem** | Laravel, React.js, Inertia.js, Tailwind CSS, SSLCommerz, MySQL | Architected a SPA-style LMS and affiliate platform with secure server-side workflows, role-aware content protection, and referral commission automation. Integrated a centralized multi-domain SSLCommerz bridge for secure payment orchestration across multiple entry points. <br><br>**Key Achievements:** 2x faster navigation versus traditional MPA flow; centralized scalable multi-domain checkout; 50% less manual affiliate operations through automated tracking/payout logic; granular RBAC for students/instructors/affiliates; scalable course operations with bulk media handling and payment-triggered enrollments. | [Website](https://tradingchart.org/) |
 
 ---
 
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahjalal132&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Jalal's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahjalal132&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahjalal132&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=21600" alt="Jalal's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=shahjalal132&theme=tokyonight&hide_border=true" alt="Jalal's GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahjalal132&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=21600" alt="Top Languages" width="49%" />
 </p>
 
 #### 📈 Contribution Graph
@@ -74,8 +79,4 @@ Highly logical **Computer Science & Engineering** student at Daffodil Internatio
 <a href="https://linkedin.com/in/dev-shah-jalal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://facebook.com/shahjalal1320"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 <a href="mailto:ffshahjalal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=shahjalal132&icon=0&color=0" alt="visitor count" />
 </p>
