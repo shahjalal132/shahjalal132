@@ -13,10 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:rishajalal132@gmail.com"><img src="https://img.shields.io/badge/Email-rishajalal132%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/shahjalal132"><img src="https://img.shields.io/badge/GitHub-shahjalal132-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/dev-shah-jalal"><img src="https://img.shields.io/badge/LinkedIn-dev--shah--jalal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://drive.google.com/file/d/1fkkgC4DN0-c8AqF9BkrEnLbP2-MOVKYO/view?usp=sharing"><img src="https://img.shields.io/badge/Download-CV-2554DC?style=flat-square&logo=googledrive&logoColor=white" alt="Download CV" /></a>
 </p>
 
 ## Professional Focus
@@ -126,7 +124,6 @@
 
 I am interested in international opportunities involving full-stack product development, Laravel systems, WordPress/WooCommerce engineering, AI automation, and technical collaboration.
 
-- **Email:** [rishajalal132@gmail.com](mailto:rishajalal132@gmail.com)
 - **LinkedIn:** [linkedin.com/in/dev-shah-jalal](https://linkedin.com/in/dev-shah-jalal)
 - **Facebook:** [facebook.com/shahjalal1320](https://facebook.com/shahjalal1320)
 - **GitHub:** [github.com/shahjalal132](https://github.com/shahjalal132)
