@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/shahjalal132"><img src="https://img.shields.io/badge/GitHub-shahjalal132-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/dev-shah-jalal"><img src="https://img.shields.io/badge/LinkedIn-dev--shah--jalal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/muhammad-jalal132"><img src="https://img.shields.io/badge/LinkedIn-dev--shah--jalal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ## Professional Focus
