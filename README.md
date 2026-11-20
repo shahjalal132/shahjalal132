@@ -1,29 +1,30 @@
 <p align="center">
-  <img src="./assets/images/banner.png" alt="Muhammad Shah Jalal — Full-Stack Software Developer" width="100%" />
+  <img src="./assets/images/banner.png" alt="Muhammad Shah Jalal — Full-Stack Developer & Technical Support Engineer" width="100%" />
 </p>
 
 <h1 align="center">Muhammad Shah Jalal</h1>
 
 <p align="center">
-  <strong>Full-Stack Software Developer · Laravel · WordPress/WooCommerce · AI Automation</strong>
+  <strong>Full-Stack Developer & Technical Support Engineer · Laravel · WordPress/WooCommerce · React · AI Automation</strong>
 </p>
 
 <p align="center">
-  I build dependable web applications, e-commerce systems, backend integrations, and AI-assisted workflows that turn complex requirements into maintainable products.
+  I build dependable web applications, e-commerce systems, backend integrations, and AI-assisted workflows that turn complex requirements into maintainable products — and I keep them running for the people who use them, providing technical support and QA for AI SaaS products.
 </p>
 
 <p align="center">
   <a href="https://github.com/shahjalal132"><img src="https://img.shields.io/badge/GitHub-shahjalal132-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/muhammad-jalal132"><img src="https://img.shields.io/badge/LinkedIn-dev--shah--jalal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/muhammad-jalal132"><img src="https://img.shields.io/badge/LinkedIn-muhammad--jalal132-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ## Professional Focus
 
-- **4+ years** of hands-on web development experience across professional and independent projects.
+- **4+ years** of experience across full-stack development, technical support, and quality assurance — building products and keeping them running for the people who use them.
 - **3+ years** building and customizing WordPress and WooCommerce solutions.
 - **2+ years** developing Laravel applications, APIs, business systems, and integrations.
-- Currently working with **AI-assisted development and automation** using Codex, Claude, local LLMs, n8n, and modern agentic workflows.
-- Experienced in technical support, quality assurance, model evaluation, feature research, bug reporting, and cross-functional collaboration.
+- Currently **Technical Support Engineer at Strontium Corp (Canada, remote)**, supporting three AI SaaS products (Artistly, CloneVoice, VideoExpress) end to end — Help Scout ticket ownership, defect reproduction, testing failed jobs against internal ML backend APIs, triage and escalation into Jira and Slack, and production QA — in a 15+ member global team providing 24/7 support in English.
+- Hands-on infrastructure depth: **VPS and Cloudflare DNS management, TCP/IP, routing, DNS architecture, SSL/TLS and PKI, firewall rules, proxy and custom mail server configuration**, and **SSO/MFA (Authentik)**.
+- Currently working with **AI-assisted development and automation** using Codex, Claude, local LLMs, n8n, and modern agentic workflows — including evaluating and benchmarking ML models for an ML team.
 
 ## Technical Foundation
 
@@ -45,8 +46,11 @@
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Database Replication](https://img.shields.io/badge/Database_Replication_(Master--Slave)-334155?style=flat-square)
 
 ### Frontend & UI Development
 
@@ -64,6 +68,21 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![VPS Management](https://img.shields.io/badge/VPS_Management-334155?style=flat-square)
+![DNS](https://img.shields.io/badge/TCP/IP_·_DNS_Architecture-334155?style=flat-square)
+![SSL/TLS](https://img.shields.io/badge/SSL/TLS_·_PKI-334155?style=flat-square)
+![SSO](https://img.shields.io/badge/SSO_·_MFA_(Authentik)-334155?style=flat-square)
+![Firewall](https://img.shields.io/badge/Firewall_·_Proxy_·_Mail_Server-334155?style=flat-square)
+
+### Technical Support & QA
+
+![Help Scout](https://img.shields.io/badge/Help_Scout-1292EE?style=flat-square&logo=helpscout&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![API Testing](https://img.shields.io/badge/API_Testing_·_cURL-334155?style=flat-square)
+![Quality Assurance](https://img.shields.io/badge/Quality_Assurance_·_Model_Evaluation-334155?style=flat-square)
 
 ## Selected Projects
 
@@ -122,8 +141,9 @@
 
 ## Let's Connect
 
-I am interested in international opportunities involving full-stack product development, Laravel systems, WordPress/WooCommerce engineering, AI automation, and technical collaboration.
+I am interested in international opportunities involving full-stack product development, Laravel systems, WordPress/WooCommerce engineering, technical support engineering, AI automation, and technical collaboration.
 
-- **LinkedIn:** [linkedin.com/in/dev-shah-jalal](https://linkedin.com/in/dev-shah-jalal)
+- **Email:** rjshahjalal132@gmail.com
+- **LinkedIn:** [linkedin.com/in/muhammad-jalal132](https://www.linkedin.com/in/muhammad-jalal132)
 - **Facebook:** [facebook.com/shahjalal1320](https://facebook.com/shahjalal1320)
 - **GitHub:** [github.com/shahjalal132](https://github.com/shahjalal132)
