@@ -121,6 +121,24 @@ Currently **Technical Support Engineer at Strontium Corp (Canada, remote)**, sup
 
 [View repository](https://github.com/strontiumcorp/nursery_rhyme_music_video)
 
+### Technical Support for AI SaaS Products — Artistly, CloneVoice & VideoExpress
+
+**Help Scout · Jira · Slack · Loom · Internal ML Backend APIs**
+
+- Currently provide technical support for three production AI SaaS products — [Artistly](https://artistly.ai/) (AI image generation), [CloneVoice](https://clonevoice.ai/) (AI voice cloning), and [VideoExpress](https://videoexpress.ai/) (AI video creation) — across Help Scout, Facebook product communities, and direct messages, in a 15+ member global team providing 24/7 support in English.
+- Reproduce defects, test failed generation jobs against internal ML backend APIs and system logs, and return verified results to users; triage feature requests and issues into Jira and Slack, escalate to developers and ML engineers, and track fixes through to release.
+- Deliver production-team QA (feature and API testing, staging-vs-production verification) and benchmark newly hosted ML models for the ML team.
+
+### Maildoll — Email & SMS Marketing SaaS Application
+
+**Laravel · PHP · MySQL**
+
+- Contributed as a Software Developer at Imjol to Maildoll, the team's flagship CodeCanyon product — a self-hosted email and SMS marketing SaaS application built with Laravel, with 900+ sales.
+- Worked on the product's ongoing development and lifecycle maintenance: resolving bugs from buyer feedback and reviews, shipping security patches, and sustaining compatibility with platform updates and high user ratings.
+- Platform capabilities include bulk email and SMS campaigns, a drag-and-drop email builder, email verification, campaign scheduling, and SaaS subscription plans with PayPal and Stripe.
+
+[View on CodeCanyon](https://codecanyon.net/item/maildoll-email-sms-marketing-application/30467920)
+
 ## GitHub Activity
 
 <p align="center">
