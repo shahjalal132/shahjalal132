@@ -83,44 +83,6 @@ Currently **Technical Support Engineer at Strontium Corp (Canada, remote)**, sup
 
 ## Selected Projects
 
-### RiceStream — Inventory & Financial Management ERP
-
-**Laravel · React · Inertia.js · MySQL · Tailwind CSS**
-
-- Built a dedicated ERP for rice mill owners and wholesalers with real-time inventory, dealer ledgers, payment tracking, and financial reporting.
-- Implemented fixed-point calculations for accurate weight conversions, stock valuation, and due management.
-- Optimized Eloquent queries and database indexes for fast account statements across large transaction histories.
-
-[View repository](https://github.com/shahjalal132/arod-management-system)
-
-### AI-Powered Bilingual QA & Compliance Engine
-
-**Laravel · Gemini · Redis · MySQL · Alpine.js**
-
-- Engineered an asynchronous auditing pipeline for large batches of URLs using Redis queues.
-- Used structured AI output for consistent bilingual compliance reports and reduced token usage through server-side content sanitization.
-- Built a configurable prompt engine so non-technical users can manage auditing rules without deployments.
-
-[View repository](https://github.com/shahjalal132/ai-qa-assistant-tool)
-
-### Trading Chart — LMS & Affiliate Platform
-
-**Laravel · React · Inertia.js · MySQL · SSLCommerz**
-
-- Developed a SPA-style learning platform with role-based access, protected course content, payment-driven enrollment, and affiliate commissions.
-- Integrated a centralized multi-domain payment workflow and automated referral operations.
-
-[Visit website](https://tradingchart.org/)
-
-### Nursery-Rhyme Music Video Automation
-
-**Codex · Claude · Artistly · CloneVoice · VideoExpress**
-
-- Built an end-to-end AI-assisted workflow that converts nursery-rhyme concepts into structured music-video production assets.
-- Automated repeatable content preparation steps to make the workflow accessible to end users.
-
-[View repository](https://github.com/strontiumcorp/nursery_rhyme_music_video)
-
 ### Technical Support for AI SaaS Products — Artistly, CloneVoice & VideoExpress
 
 **Help Scout · Jira · Slack · Loom · Internal ML Backend APIs**
@@ -128,7 +90,6 @@ Currently **Technical Support Engineer at Strontium Corp (Canada, remote)**, sup
 - Currently provide technical support for three production AI SaaS products — [Artistly](https://artistly.ai/) (AI image generation), [CloneVoice](https://clonevoice.ai/) (AI voice cloning), and [VideoExpress](https://videoexpress.ai/) (AI video creation) — across Help Scout, Facebook product communities, and direct messages, in a 15+ member global team providing 24/7 support in English.
 - Reproduce defects, test failed generation jobs against internal ML backend APIs and system logs, and return verified results to users; triage feature requests and issues into Jira and Slack, escalate to developers and ML engineers, and track fixes through to release.
 - Deliver production-team QA (feature and API testing, staging-vs-production verification) and benchmark newly hosted ML models for the ML team.
-
 ### Maildoll — Email & SMS Marketing SaaS Application
 
 **Laravel · PHP · MySQL**
@@ -138,6 +99,40 @@ Currently **Technical Support Engineer at Strontium Corp (Canada, remote)**, sup
 - Platform capabilities include bulk email and SMS campaigns, a drag-and-drop email builder, email verification, campaign scheduling, and SaaS subscription plans with PayPal and Stripe.
 
 [View on CodeCanyon](https://codecanyon.net/item/maildoll-email-sms-marketing-application/30467920)
+### RiceStream — Inventory & Financial Management ERP
+
+**Laravel · React · Inertia.js · MySQL · Tailwind CSS**
+
+- Built a dedicated ERP for rice mill owners and wholesalers with real-time inventory, dealer ledgers, payment tracking, and financial reporting.
+- Implemented fixed-point calculations for accurate weight conversions, stock valuation, and due management.
+- Optimized Eloquent queries and database indexes for fast account statements across large transaction histories.
+
+[View repository](https://github.com/shahjalal132/arod-management-system)
+### AI-Powered Bilingual QA & Compliance Engine
+
+**Laravel · Gemini · Redis · MySQL · Alpine.js**
+
+- Engineered an asynchronous auditing pipeline for large batches of URLs using Redis queues.
+- Used structured AI output for consistent bilingual compliance reports and reduced token usage through server-side content sanitization.
+- Built a configurable prompt engine so non-technical users can manage auditing rules without deployments.
+
+[View repository](https://github.com/shahjalal132/ai-qa-assistant-tool)
+### Trading Chart — LMS & Affiliate Platform
+
+**Laravel · React · Inertia.js · MySQL · SSLCommerz**
+
+- Developed a SPA-style learning platform with role-based access, protected course content, payment-driven enrollment, and affiliate commissions.
+- Integrated a centralized multi-domain payment workflow and automated referral operations.
+
+[Visit website](https://tradingchart.org/)
+### Nursery-Rhyme Music Video Automation
+
+**Codex · Claude · Artistly · CloneVoice · VideoExpress**
+
+- Built an end-to-end AI-assisted workflow that converts nursery-rhyme concepts into structured music-video production assets.
+- Automated repeatable content preparation steps to make the workflow accessible to end users.
+
+[View repository](https://github.com/strontiumcorp/nursery_rhyme_music_video)
 
 ## GitHub Activity
 
