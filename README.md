@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/images/banner.png" alt="Muhammad Shah Jalal — Full-Stack Developer & Technical Support Engineer" width="100%" />
+  <img src="./assets/images/banner.png?v=2" alt="Muhammad Shah Jalal — Full-Stack Developer & Technical Support Engineer" width="100%" />
 </p>
 
 <h1 align="center">Muhammad Shah Jalal</h1>
