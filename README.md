@@ -19,12 +19,9 @@
 
 ## Professional Focus
 
-- **4+ years** of experience across full-stack development, technical support, and quality assurance — building products and keeping them running for the people who use them.
-- **3+ years** building and customizing WordPress and WooCommerce solutions.
-- **2+ years** developing Laravel applications, APIs, business systems, and integrations.
-- Currently **Technical Support Engineer at Strontium Corp (Canada, remote)**, supporting three AI SaaS products (Artistly, CloneVoice, VideoExpress) end to end — Help Scout ticket ownership, defect reproduction, testing failed jobs against internal ML backend APIs, triage and escalation into Jira and Slack, and production QA — in a 15+ member global team providing 24/7 support in English.
-- Hands-on infrastructure depth: **VPS and Cloudflare DNS management, TCP/IP, routing, DNS architecture, SSL/TLS and PKI, firewall rules, proxy and custom mail server configuration**, and **SSO/MFA (Authentik)**.
-- Currently working with **AI-assisted development and automation** using Codex, Claude, local LLMs, n8n, and modern agentic workflows — including evaluating and benchmarking ML models for an ML team.
+Software professional with **4+ years of experience** across full-stack development, technical support, and quality assurance — one continuous track record of building products and keeping them running for the people who use them. Within that time, **3+ years** building and customizing WordPress and WooCommerce solutions and **2+ years** developing Laravel applications, APIs, business systems, and integrations.
+
+Currently **Technical Support Engineer at Strontium Corp (Canada, remote)**, supporting three AI SaaS products (Artistly, CloneVoice, VideoExpress) end to end — Help Scout ticket ownership, defect reproduction, testing failed jobs against internal ML backend APIs, triage and escalation into Jira and Slack, and production QA — in a 15+ member global team providing 24/7 support in English. Hands-on infrastructure depth: **VPS and Cloudflare DNS management, TCP/IP, routing, DNS architecture, SSL/TLS and PKI, firewall rules, proxy and custom mail server configuration**, and **SSO/MFA (Authentik)** — alongside **AI-assisted development and automation** with Codex, Claude, local LLMs, n8n, and modern agentic workflows, including evaluating and benchmarking ML models for an ML team.
 
 ## Technical Foundation
 
