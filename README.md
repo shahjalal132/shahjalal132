@@ -21,7 +21,7 @@
 
 Software professional with **4+ years of experience** across full-stack development, technical support, and quality assurance — one continuous track record of building products and keeping them running for the people who use them. Within that time, **3+ years** building and customizing WordPress and WooCommerce solutions and **2+ years** developing Laravel applications, APIs, business systems, and integrations.
 
-Currently **Technical Support Engineer at Strontium Corp (Canada, remote)**, supporting three AI SaaS products (Artistly, CloneVoice, VideoExpress) end to end — Help Scout ticket ownership, defect reproduction, testing failed jobs against internal ML backend APIs, triage and escalation into Jira and Slack, and production QA — in a 15+ member global team providing 24/7 support in English. Hands-on infrastructure depth: **VPS and Cloudflare DNS management, TCP/IP, routing, DNS architecture, SSL/TLS and PKI, firewall rules, proxy and custom mail server configuration**, and **SSO/MFA (Authentik)** — alongside **AI-assisted development and automation** with Codex, Claude, local LLMs, n8n, and modern agentic workflows, including evaluating and benchmarking ML models for an ML team.
+Currently **Technical Support Engineer at Strontium Corp (Canada, remote)**, supporting five AI SaaS products (Artistly, CloneVoice, TalkingPhotos, VideoExpress, Videosly) end to end, with a sixth product, PodcastFlow (AI podcast creation, in beta testing), being added to the support scope — Help Scout ticket ownership, defect reproduction, testing failed jobs against internal ML backend APIs, triage and escalation into Jira and Slack, and production QA — in a 15+ member global team providing 24/7 support in English. Hands-on infrastructure depth: **VPS and Cloudflare DNS management, TCP/IP, routing, DNS architecture, SSL/TLS and PKI, firewall rules, proxy and custom mail server configuration**, and **SSO/MFA (Authentik)** — alongside **AI-assisted development and automation** with Codex, Claude, local LLMs, n8n, and modern agentic workflows, including evaluating and benchmarking ML models for an ML team.
 
 ## Technical Foundation
 
@@ -83,11 +83,11 @@ Currently **Technical Support Engineer at Strontium Corp (Canada, remote)**, sup
 
 ## Selected Projects
 
-### Technical Support for AI SaaS Products — Artistly, CloneVoice & VideoExpress
+### Technical Support for AI SaaS Products — Artistly, CloneVoice, TalkingPhotos, VideoExpress & Videosly
 
 **Help Scout · Jira · Slack · Loom · Internal ML Backend APIs**
 
-- Currently provide technical support for three production AI SaaS products — [Artistly](https://artistly.ai/) (AI image generation), [CloneVoice](https://clonevoice.ai/) (AI voice cloning), and [VideoExpress](https://videoexpress.ai/) (AI video creation) — across Help Scout, Facebook product communities, and direct messages, in a 15+ member global team providing 24/7 support in English.
+- Currently provide technical support for five production AI SaaS products — [Artistly](https://artistly.ai/) (AI image generation), [CloneVoice](https://clonevoice.ai/) (AI voice cloning), [TalkingPhotos](https://talkingphotos.ai/) (AI talking-photo videos), [VideoExpress](https://videoexpress.ai/) (AI video creation), and [Videosly](https://videosly.ai/) (AI video creation and scheduling) — across Help Scout, Facebook product communities, and direct messages, in a 15+ member global team providing 24/7 support in English. A sixth product, [PodcastFlow](https://podcastflow.ai/) (AI podcast creation), is in beta testing and being added to my support scope.
 - Reproduce defects, test failed generation jobs against internal ML backend APIs and system logs, and return verified results to users; triage feature requests and issues into Jira and Slack, escalate to developers and ML engineers, and track fixes through to release.
 - Deliver production-team QA (feature and API testing, staging-vs-production verification) and benchmark newly hosted ML models for the ML team.
 ### Maildoll — Email & SMS Marketing SaaS Application
